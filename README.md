@@ -8,7 +8,8 @@ Ejercicios030224: Función que calcula el gradiente de una función, Función qu
 
 Ejercicio 100224: Ejercicio aproximación de la función seno usando un polinomio de grado 5.
 
-Ejercicio 020324 (1-D Linear Regression A) - Se describe la función para calcular la linea de regresión.
+Ejercicio 020324 (1-D Linear Regression A): Se describe la función para calcular la linea de regresión.
 
+Ejercicio 020324 (Multiple Linear Regression): Se describe la función para calcular linea de regresión incorporando multiples variables predictoras (X).
 
 
