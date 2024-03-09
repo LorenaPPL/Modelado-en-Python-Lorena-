@@ -12,4 +12,6 @@ Ejercicio 020324 (1-D Linear Regression A): Se describe la función para calcula
 
 Ejercicio 020324 (Multiple Linear Regression): Se describe la función para calcular linea de regresión incorporando multiples variables predictoras (X).
 
+Ejercicio 090324 (outliers): Se describe la función para elegir X y seleccionar el método Z-Score o Boxplot.
+
 
