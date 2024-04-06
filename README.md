@@ -15,3 +15,5 @@ Ejercicio 020324 (Multiple Linear Regression): Se describe la función para calc
 Ejercicio 090324 (outliers): Se describe la función para elegir X y seleccionar el método Z-Score o Boxplot.
 
 Ejercicio 090324 (Linear Regression Sklearn A): Función que te deje solo las columnas que se necesitan.
+
+Ejercicio 060424 (Logistic Regression by hand AL): Función Gradiente de la función, Encontrar los pesos (W) y Hacer predicciones con el modelo. (Es un modelo de clasificación), Se usa el archivo de Aztlan.Py y se adiciona la matriz de confusión.
