@@ -17,3 +17,5 @@ Ejercicio 090324 (outliers): Se describe la función para elegir X y seleccionar
 Ejercicio 090324 (Linear Regression Sklearn A): Función que te deje solo las columnas que se necesitan.
 
 Ejercicio 060424 (Logistic Regression by hand AL): Función Gradiente de la función, Encontrar los pesos (W) y Hacer predicciones con el modelo. (Es un modelo de clasificación), Se usa el archivo de Aztlan.Py y se adiciona la matriz de confusión.
+
+Ejercicio 130424 (KNN - AL): Clasificador de aprendizaje supervisado no paramétrico, que utiliza la proximidad para hacer clasificaciones o predicciones. 
